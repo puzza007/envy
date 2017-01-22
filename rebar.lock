@@ -1,7 +1,7 @@
 {"1.1.0",
 [{<<"any">>,
   {git,"https://github.com/puzza007/any.git",
-       {ref,"b0e4d0aeba727ffbed1d333e3aa0910ee7175a0e"}},
+       {ref,"4c1739f0c91d52bb469df8088d8bac9ba23f2076"}},
   0},
  {<<"gproc">>,{pkg,<<"gproc">>,<<"0.5.0">>},0}]}.
 [
