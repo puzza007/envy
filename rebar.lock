@@ -1,0 +1,10 @@
+{"1.1.0",
+[{<<"any">>,
+  {git,"https://github.com/puzza007/any.git",
+       {ref,"b0e4d0aeba727ffbed1d333e3aa0910ee7175a0e"}},
+  0},
+ {<<"gproc">>,{pkg,<<"gproc">>,<<"0.5.0">>},0}]}.
+[
+{pkg_hash,[
+ {<<"gproc">>, <<"2DF2D886F8F8A7B81A4B04AA17972B5965BBC5BF0100EA6D8E8AC6A0E7389AFE">>}]}
+].

@@ -1,0 +1,18 @@
+{application, envy,
+ [{description, "gproc wrapper prefixing os_env with application name"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, { envy_app, []}},
+  {applications,
+   [kernel,
+    stdlib,
+    gproc,
+    any
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, []},
+  {links, []}
+ ]}.
